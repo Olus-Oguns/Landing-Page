@@ -18,12 +18,12 @@ This is a simple website built with HTML and CSS.
 
 ## Usage
 
-To use this website, simply open the `index.html` file in a web browser.
+To use this website, open the `index.html` file in a web browser.
 
 ## Contributing
 
-If you would like to contribute to this project, feel free to submit a pull request.
+If you would like to contribute to this project, you can submit a pull request.
 
-## License
+## Contact
 
-This project is licensed under the [MIT License](LICENSE).
+If you have any questions or feedback, please contact me at olusoguns2005@gmail.com
